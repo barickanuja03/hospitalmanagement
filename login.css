@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.patient-login{
+    border:1px solid black;
+    background-color:whitesmoke;
+    color:black;
+    height:300px;
+    width:300px;
+    margin:200px 200px 0px 200px;
+  
+}
+.doctor-login{
+    border:1px solid black;
+    background-color:whitesmoke;
+    color:black;
+    height:300px;
+    width:300px;
+    margin:-300px 0px 0px 600px;
+}
+.admit-login{
+    border:1px solid black;
+    background-color:whitesmoke;
+    color:black;
+    height:300px;
+    width:300px;
+    margin:-300px 0px 0px 1000px;
+}
+.heading{
+    text-align: center;
+    font-size: 25px;
+    
+}
+#login-button{
+    border:1px solid #2dede3;
+    background-color: #2dede3;
+    color: white;
+}
+a{
+    margin: 150px 10px 20px 20px;
+}
